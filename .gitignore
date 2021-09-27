@@ -1,0 +1,6 @@
+inc
+build
+deploy
+.tmp
+.git
+
