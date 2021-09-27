@@ -12,7 +12,7 @@ alpine: ## buildah build alpine with added directories and entrypoint
 		/opt/proxy/conf \
 		/opt/proxy/html/fonts \
 		/opt/proxy/html/images  \
-		/opt/proxy/html/icons
+		/opt/proxy/html/icons \
 		/etc/letsencrypt \
 		/usr/local/xqerl/code/src \
 		/usr/local/xqerl/priv/static/assets # setting up directories
